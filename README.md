@@ -77,7 +77,7 @@ hotelHub
 
 ```bash
 git clone https://github.com/noman62/HotelHub
-cd react_assignment
+cd HotelHub
 ```
 ## Install dependencies:
 #### npm install
