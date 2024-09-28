@@ -13,7 +13,7 @@ This is a frontend application built using React that displays hotel details. It
 
 ## Folder Structure
 ```
-react_assignment
+hotelHub
 ├── src
 │   ├── assets
 │   │   ├── images
@@ -76,7 +76,7 @@ react_assignment
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/noman1811048/react_assignment
+git clone https://github.com/noman62/HotelHub
 cd react_assignment
 ```
 ## Install dependencies:
